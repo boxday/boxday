@@ -16,6 +16,12 @@ html, body {
 	align-items:center;
 }
 
+.quote, .author {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
 .cardboard {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', cursive;s
 }
