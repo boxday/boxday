@@ -1,15 +1,26 @@
 "use strict"
 
 var quotes = [
-    "Do you ever feel\n" +
-    "like a <span class=\"cardboard\">cardboard box</span>?\n" +
-    "-Katy Perry"
+  {
+    quote: "Do you ever feel\n" +
+           "like a [[cardboard box]]?",
+    author: "Katy Perry"
+  },
+  {
+    quote: "Any person ... any [[box]]",
+    author: "Ezra Cornell"
+  }
 ];
 
 var quote = quotes[Math.floor(Math.random() * quotes.length)];
 
-console.log(quote);
+quote.quote = quote.quote
+                .replace("[[", "<span class=\"cardboard\">")
+                .replace("]]", "</span>");
+quote.author = "-" + quote.author;
 
-var holder = document.getElementById('quote-holder');
+var quoteHolder = document.getElementById('quote');
+var authorHolder = document.getElementById('author');
 
-holder.innerHTML = quote.quote;
+quoteHolder.innerHTML = quote.quote;
+authorHolder.innerHTML = quote.author
