@@ -9,6 +9,30 @@ var quotes = [
   {
     quote: "Any person ... any [[box]]",
     author: "Ezra Cornell"
+  },
+  {
+    quote: "[[Box Day]] is great",
+    author: "Kathy Zoner"
+  },
+  {
+    quote: "The [[Box Fort]] just got 10 feet taller!",
+    author: "Donald Trump"
+  },
+  {
+    quote: "I'mma be, I'mma be, I'mma I'mma I'mma [[box]]",
+    author: "will.i.am"
+  },
+  {
+    quote: "[[Boxes]] out for Harambe",
+    author: "<a href=\"https://www.reddit.com/r/harambe\">Reddit</a>"
+  },
+  {
+    quote: "Build a fort up on that slope, that's a [[Box Day]]",
+    author: "Kanye West/Big Sean"
+  },
+  {
+    quote: "Move fast and built a [[Box Fort]]",
+    author: "Mark Zuckerburg"
   }
 ];
 
