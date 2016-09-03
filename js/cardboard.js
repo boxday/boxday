@@ -31,7 +31,7 @@ var quotes = [
     author: "Kanye West/Big Sean"
   },
   {
-    quote: "Move fast and built a [[Box Fort]]",
+    quote: "Move fast and build a [[Box Fort]]",
     author: "Mark Zuckerburg"
   }
 ];
