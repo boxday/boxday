@@ -57,6 +57,90 @@ var quotes = [
   {
     quote: "The cure for boredom is curiosity. The cure for curiosity is [[Cardboard Boxes]]",
     author: "Ellen Parr"
+  },
+  {
+    quote: "My [[box]] runneth over",
+    author: "Psalm 23:5"
+  },
+  {
+    quote: "One fort to bring them all and in the [[cardboard]] bind them<br> On the Slope of Cornell where the boxes lie",
+    author: "J.R.R. Tolkien"
+  },
+  {
+    quote: "Life, Liberty and the pursuit of [[box day]]",
+    author: "Thomas Jefferson"
+  },
+  {
+    quote: "And I find it kinda funny, I find it kinda sad.<br> The dreams in which its [[box day]] are the best I've ever had",
+    author: "Tears for Fears"
+  },
+  {
+    quote: "I love the smell of [[cardboard]] in the morning!",
+    author: "Lieutenant Colonel Bill Kilgore"
+  },
+  {
+    quote: "There's no place like a [[box fort]]",
+    author: "Dorothy Gale"
+  },
+  {
+    quote: "Tell me about the [[cardboard]], George",
+    author: "John Steinbeck"
+  },
+  {
+    quote: "I have always depended on the [[boxes]] of strangers",
+    author: "Tennessee Williams"
+  },
+  {
+    quote: "[[box day's]] the thing wherein I'll catch the conscience of the king",
+    author: "William Shakespeare"
+  },
+  {
+    quote: "Where the fear has gone there will be nothing.<br> Only [[boxes]] will remain",
+    author: "Frank Herbert"
+  },
+  {
+    quote: "Hokey religions and ancient weapons are no substitute for a good [[box]] at your side, kid",
+    author: "Han Solo"
+  },
+  {
+    quote: "We're gonna need a bigger [[box]]",
+    author: "Martin Brody"
+  },
+  {
+    quote: "From Bethe on West to McGraw on Central,<br> a [[cardboard]] curtain has descended upon this campus",
+    author: "Winston Churchill"
+  },
+  {
+    quote: "I came, I saw, I built a [[box fort]]",
+    author: "Julius Caesar"
+  },
+  {
+    quote: "The most wasted of all days is one without a [[box fort]]",
+    author: "e. e. cummings" 
+  },
+  {
+    quote: "People will forget what you said,<br> people will forget what you did,<br> but they will never forget a good [[box fort]]",
+    author: "Maya Angelou"
+  },
+  {
+    quote: "[[Box day]] is intelligence having fun",
+    author: "Albert Einstein"
+  },
+  {
+    quote: "We build too many walls, and not enough [[box forts]]",
+    author: "Sir Isaac Newton"
+  },
+  {
+    quote: "Logic will take you from A-Z, but [[boxes]] will take you anywhere",
+    author: "Albert Einstein"
+  },
+  {
+    quote: "Just remember, it all began with a [[box fort]]",
+    author: "Walt Disney"
+  },
+  {
+    quote: "The two most important days in your life are the day you were born,<br> and the day you build a [[box fort]]",
+    author: "Mark Twain"
   }
 ];
 
