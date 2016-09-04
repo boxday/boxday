@@ -148,7 +148,11 @@ var quotes = [
     quote: "The two most important days in your life are the day you were born,\n" +
            "and the day you build a [[Box Fort]]",
     author: "Mark Twain"
-  }
+  },
+  {
+    quote: "There are 3 seasons at Cornell; Spring, Winter, and [[Box Day]]",
+    author: "President David J. Skorton"
+  } 
 ];
 
 var quote = quotes[Math.floor(Math.random() * quotes.length)];
