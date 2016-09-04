@@ -120,7 +120,7 @@ var quotes = [
   },
   {
     quote: "The most wasted of all days is one without a [[Box Fort]]",
-    author: "E. E. Cummings" 
+    author: "e e cummings" 
   },
   {
     quote: "People will forget what you said,\n" +
