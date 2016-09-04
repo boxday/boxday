@@ -3,11 +3,11 @@
 var quotes = [
   {
     quote: "Do you ever feel\n" +
-           "like a [[cardboard box]]?",
+           "like a [[Cardboard Box]]?",
     author: "Katy Perry"
   },
   {
-    quote: "Any person ... any [[box]]",
+    quote: "Any person ... any [[Box]]",
     author: "Ezra Cornell"
   },
   {
@@ -19,7 +19,7 @@ var quotes = [
     author: "Donald Trump"
   },
   {
-    quote: "I'mma be, I'mma be, I'mma I'mma I'mma [[box]]",
+    quote: "I'mma be, I'mma be, I'mma I'mma I'mma [[Box]]",
     author: "will.i.am"
   },
   {
@@ -59,87 +59,94 @@ var quotes = [
     author: "Ellen Parr"
   },
   {
-    quote: "My [[box]] runneth over",
+    quote: "My [[Box]] runneth over",
     author: "Psalm 23:5"
   },
   {
-    quote: "One fort to bring them all and in the [[cardboard]] bind them<br> On the Slope of Cornell where the boxes lie",
+    quote: "One fort to bring them all and in the [[Cardboard]] bind them\n" +
+           "On the Slope of Cornell where the boxes lie",
     author: "J.R.R. Tolkien"
   },
   {
-    quote: "Life, Liberty and the pursuit of [[box day]]",
+    quote: "Life, Liberty and the pursuit of [[Box Day]]",
     author: "Thomas Jefferson"
   },
   {
-    quote: "And I find it kinda funny, I find it kinda sad.<br> The dreams in which its [[box day]] are the best I've ever had",
+    quote: "And I find it kinda funny, I find it kinda sad.\n" +
+           "The dreams in which its [[Box Day]] are the best I've ever had",
     author: "Tears for Fears"
   },
   {
-    quote: "I love the smell of [[cardboard]] in the morning!",
+    quote: "I love the smell of [[Cardboard]] in the morning!",
     author: "Lieutenant Colonel Bill Kilgore"
   },
   {
-    quote: "There's no place like a [[box fort]]",
+    quote: "There's no place like a [[Box Fort]]",
     author: "Dorothy Gale"
   },
   {
-    quote: "Tell me about the [[cardboard]], George",
+    quote: "Tell me about the [[Cardboard]], George",
     author: "John Steinbeck"
   },
   {
-    quote: "I have always depended on the [[boxes]] of strangers",
+    quote: "I have always depended on the [[Boxes]] of strangers",
     author: "Tennessee Williams"
   },
   {
-    quote: "[[box day's]] the thing wherein I'll catch the conscience of the king",
+    quote: "[[Box Day's]] the thing wherein I'll catch the conscience of the king",
     author: "William Shakespeare"
   },
   {
-    quote: "Where the fear has gone there will be nothing.<br> Only [[boxes]] will remain",
+    quote: "Where the fear has gone there will be nothing.\n" +
+           "Only [[Boxes]] will remain",
     author: "Frank Herbert"
   },
   {
-    quote: "Hokey religions and ancient weapons are no substitute for a good [[box]] at your side, kid",
+    quote: "Hokey religions and ancient weapons are no substitute for a good [[Box]] at your side, kid",
     author: "Han Solo"
   },
   {
-    quote: "We're gonna need a bigger [[box]]",
+    quote: "We're gonna need a bigger [[Box]]",
     author: "Martin Brody"
   },
   {
-    quote: "From Bethe on West to McGraw on Central,<br> a [[cardboard]] curtain has descended upon this campus",
+    quote: "From Bethe on West to McGraw on Central,\n" +
+           "a [[Cardboard]] curtain has descended upon this campus",
     author: "Winston Churchill"
   },
   {
-    quote: "I came, I saw, I built a [[box fort]]",
+    quote: "I came, I saw, I built a [[Box Fort]]",
     author: "Julius Caesar"
   },
   {
-    quote: "The most wasted of all days is one without a [[box fort]]",
-    author: "e. e. cummings" 
+    quote: "The most wasted of all days is one without a [[Box Fort]]",
+    author: "E. E. Cummings" 
   },
   {
-    quote: "People will forget what you said,<br> people will forget what you did,<br> but they will never forget a good [[box fort]]",
+    quote: "People will forget what you said,\n" +
+           "people will forget what you did,\n" +
+           "but they will never forget a good [[Box Fort]]",
     author: "Maya Angelou"
   },
   {
-    quote: "[[Box day]] is intelligence having fun",
+    quote: "[[Box Day]] is intelligence having fun",
     author: "Albert Einstein"
   },
   {
-    quote: "We build too many walls, and not enough [[box forts]]",
+    quote: "We build too many walls, and not enough [[Box Forts]]",
     author: "Sir Isaac Newton"
   },
   {
-    quote: "Logic will take you from A-Z, but [[boxes]] will take you anywhere",
+    quote: "Logic will take you from A-Z, but [[Boxes]] will take you anywhere",
     author: "Albert Einstein"
   },
   {
-    quote: "Just remember, it all began with a [[box fort]]",
+    quote: "Just remember, it all began with a [[Box Fort]]",
     author: "Walt Disney"
   },
   {
-    quote: "The two most important days in your life are the day you were born,<br> and the day you build a [[box fort]]",
+    quote: "The two most important days in your life are the day you were born,\n" +
+           "and the day you build a [[Box Fort]]",
     author: "Mark Twain"
   }
 ];
