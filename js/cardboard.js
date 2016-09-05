@@ -24,7 +24,7 @@ var quotes = [
   },
   {
     quote: "[[Boxes]] out for Harambe",
-    author: "<a href=\"https://www.reddit.com/r/harambe\">Reddit</a>"
+    author: "<a href=\"https://www.reddit.com/r/Harambe/comments/518f0i/boxes_out_for_harambe/\">Reddit</a>"
   },
   {
     quote: "Build a fort up on that slope, that's a [[Box Day]]",
