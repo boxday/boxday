@@ -17,8 +17,8 @@ html, body {
 }
 
 .quote, .author {
-    margin-left: 10%
-    margin-right: 10%
+    margin-left: 10%;
+    margin-right: 10%;
     width: 80%;
     display:flex;
     text-align: center;
